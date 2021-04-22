@@ -6,8 +6,8 @@
 
 ## Final Renders
 
-> **You can have a look at my [Instagram](https://instagram.com/the_flutter_ninja) for UI-Codes final rendering screens.**
+> **You can have a look at my [Instagram](https://instagram.com/the_flutter_ninja) for UI-Codes final rendering screens**
 
 ## Final Words
 
-**Checkout other cool repos too! They are really Nice and helpful.**
+**Checkout other cool repos too! They are really Nice and helpful**
