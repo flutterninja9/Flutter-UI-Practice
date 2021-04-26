@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
             onPressed: () {},
             icon: Image.asset('assets/chemistry.png',),
           ),
-          SizedBox(width: 8,),
+          SizedBox(width: 10,),
         ],
       ),
       body:Column(
