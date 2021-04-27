@@ -1,6 +1,6 @@
 # Flutter UI-Challenge Sample Codes
 
-## Introduction
+## Intro
 
 > This repo contains the source codes for different and amazing UI implementations made through flutter., "Once you start using Flutter..There is no coming back!"
 
